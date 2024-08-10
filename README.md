@@ -11,10 +11,10 @@ Meu objetivo é ser Backend
 ## Tecnologias
 
 #### Linguagens de Programação
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) # Em andamento
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=javascript&theme=light) # Em andamento
+![My Skills](https://skillicons.dev/icons?i=java&theme=light)
 // Em andamento
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![My Skills](https://skillicons.dev/icons?i=python&theme=light)
 /* Em andamento */
 #### Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
