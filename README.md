@@ -21,7 +21,7 @@ Meu objetivo é ser Backend
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eude-Eduardo&size_weight=0.5&count_weight=0.5&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eude-Eduardo&layout=donut&theme=dark)
 
 
 **(Vou atualizando esse README para cada vez que eu atualizar o meu GitHub)**
