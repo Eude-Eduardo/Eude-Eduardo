@@ -1,7 +1,7 @@
 
 # Eude Eduardo
 Estou estudando para faculdade de sistemas de informação e também estudo programação por conta própria a pelos menos 3-4 meses.
-Meu objetivo é ser Backend
+Meu objetivo é ser Desenvolvedor Backend
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eudeeduardo14@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eude-Eduardo)
